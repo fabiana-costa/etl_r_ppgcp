@@ -1,6 +1,5 @@
 ls() # lista todos os objetos no R
 
-
 # Visualizando quanto cada objeto está ocupando
 
 for (itm in ls()) { 
