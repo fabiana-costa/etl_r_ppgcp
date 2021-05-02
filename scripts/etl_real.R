@@ -1,5 +1,5 @@
 library(dplyr)
-  
+
 
 # carrega a base de snistros de transito do site da PCR (2019 a 2021)
 
