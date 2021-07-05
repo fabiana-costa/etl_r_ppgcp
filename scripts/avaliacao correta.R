@@ -3,6 +3,9 @@ library(dplyr)
 library(readxl)
 library(funModeling)
 library(data.table)
+library(fuzzyjoin)
+library(stringr)
+library(tidyverse)
 
 
 #1. Extraia a base geral de covid em Pernambuco disponível neste endereço: https://dados.seplag.pe.gov.br/apps/corona_dados.html.
